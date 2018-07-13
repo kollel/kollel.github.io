@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kollel Toronto</title>
-    <link>https://kollel.github.io/</link>
-    <description>Recent content on Kollel Toronto</description>
+    <title>Home on Classic</title>
+    <link>/</link>
+    <description>Recent content in Home on Classic</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 12 Jul 2018 23:53:53 -0400</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://kollel.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fasting Pills</title>
-      <link>https://kollel.github.io/post/fasting-pills/</link>
-      <pubDate>Thu, 12 Jul 2018 23:53:53 -0400</pubDate>
+      <link>/post/2018/07/13/fasting-pills/</link>
+      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kollel.github.io/post/fasting-pills/</guid>
+      <guid>/post/2018/07/13/fasting-pills/</guid>
       <description>Fasting Pills Kollel Toronto: https://kollel.com/fasting-pills/
 To order your Fasting Pills please call your local number below. Supplies may be limited, please call early.
 If there is no distributor in your area, it can be shipped, please call 1-888-256-5595 or 416-789-1853.

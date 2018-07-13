@@ -3,29 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kollel.github.io/post/fasting-pills/</loc>
-    <lastmod>2018-07-12T23:53:53-04:00</lastmod>
+    <loc>/post/2018/07/13/fasting-pills/</loc>
+    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kollel.github.io/</loc>
-    <lastmod>2018-07-12T23:53:53-04:00</lastmod>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kollel.github.io/post/</loc>
-    <lastmod>2018-07-12T23:53:53-04:00</lastmod>
+    <loc>/categories/code/</loc>
+    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kollel.github.io/tags/</loc>
+    <loc>/</loc>
+    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/juicy/</loc>
+    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kollel.github.io/topics/</loc>
+    <loc>/post/</loc>
+    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
