@@ -6,16 +6,17 @@
     <description>Recent content in Categories on Classic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 13 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Code</title>
-      <link>/categories/code/</link>
+      <title>Announcements</title>
+      <link>/categories/announcements/</link>
       <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/code/</guid>
+      <guid>/categories/announcements/</guid>
       <description></description>
     </item>
     

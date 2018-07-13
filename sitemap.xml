@@ -8,12 +8,19 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/categories/announcements/</loc>
+    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/code/</loc>
+    <loc>/categories/</loc>
+    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/fasting/</loc>
     <lastmod>2018-07-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -21,12 +28,6 @@
   <url>
     <loc>/</loc>
     <lastmod>2018-07-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/juicy/</loc>
-    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
